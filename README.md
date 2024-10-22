@@ -55,10 +55,10 @@ I am a PhD student from IISER Pune. I am currently working in the field of exper
 ### Contact me
 
 **Prachurjya Pran Hazarika**
-<small>Office #A-367, 2nd floor 
-Department of Physics, Main Building  
-Indian Institute of Science Education and Research, Pune  
-Dr. Homi Bhabha Road, Pashan  
+<small>Office #A-367, 2nd floor <br>
+Department of Physics, Main Building <br>  
+Indian Institute of Science Education and Research, Pune  <br>
+Dr. Homi Bhabha Road, Pashan  <br>
 Maharashtra, India, 411008
 </small>
 
