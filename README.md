@@ -33,15 +33,6 @@ I am a PhD student from IISER Pune. I am currently working in the field of exper
 </p>
 
 ---
-### My GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=phazarik&show_icons=true&locale=en)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phazarik)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phazarik)
-
----
 ### Additional Expertise
 <p align="left">
 <a href="https://www.adobe.com/apps/all/all-platforms" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="40" height="40"/></a>
